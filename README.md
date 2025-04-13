@@ -113,9 +113,9 @@ Used 10.10.10.0/30 base network for point-to-point links between routers and L3 
 
 ##  References
 
-- [Cisco Packet Tracer Full Lab – VLAN, Inter-VLAN Routing, DHCP, SSH](https://www.youtube.com/watch?v=ebAqdDfIGhk)
-- [Advanced Networking in Packet Tracer – Full Enterprise Setup](https://www.youtube.com/watch?v=NU3jmb0eN_A)
-- [Enterprise Network Design Tutorial](https://www.youtube.com/watch?v=SEO0GGTtyIk)
+- [Case Study Explanation || Visualisation using MS Visual](https://www.youtube.com/watch?v=ebAqdDfIGhk)
+- [Enterprise Network Topology Setup](https://www.youtube.com/watch?v=NU3jmb0eN_A)
+- [Enterprise Network Final Configuration](https://www.youtube.com/watch?v=SEO0GGTtyIk)
 
 ---
 
