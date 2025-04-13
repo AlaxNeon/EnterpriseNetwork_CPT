@@ -105,12 +105,6 @@ Used 10.10.10.0/30 base network for point-to-point links between routers and L3 
 
 ---
 
-##  GitHub Pages Link
-
-[ View Project GitHub Page](https://alaxneon.github.io/EnterpriseNetwork_CPT)
-
----
-
 ##  References
 
 - [Case Study Explanation || Visualisation using MS Visual](https://www.youtube.com/watch?v=ebAqdDfIGhk)
