@@ -10,7 +10,7 @@
 
 ---
 
-## ?? Case Study
+## Case Study
 
 Radeon Company Ltd., a US-based enterprise in the Banking and Insurance sector, is expanding into Nairobi, Kenya. The company has secured a four-story building and wants to implement a scalable and secure network infrastructure.
 
@@ -18,7 +18,7 @@ The task was to design, configure, and simulate a real-world enterprise network 
 
 ---
 
-## ?? Devices Used
+## Devices Used
 
 - **Routers (Cisco 2911):** 4
   - FLOOR-1-ROUTER
@@ -50,7 +50,7 @@ The task was to design, configure, and simulate a real-world enterprise network 
 
 ---
 
-## ?? IP Addressing and VLAN Mapping
+##  IP Addressing and VLAN Mapping
 
 - **Base Network:** 192.168.10.0/24  
 Each department was allocated a /26 subnet (supports up to 62 hosts) and a unique VLAN:
@@ -73,7 +73,7 @@ Used 10.10.10.0/30 base network for point-to-point links between routers and L3 
 
 ---
 
-## ?? Configuration Highlights
+##  Configuration Highlights
 
 - **Routing Protocol:** OSPF (Open Shortest Path First)
 - **Switching:** Inter-VLAN routing via Layer-3 Switches using SVIs
@@ -90,7 +90,7 @@ Used 10.10.10.0/30 base network for point-to-point links between routers and L3 
 
 ---
 
-## ?? Learning Outcomes
+##  Learning Outcomes
 
 - Understood the practical application of **Hierarchical Network Design**
 - Learned how to create and apply **VLANs and Inter-VLAN Routing**
@@ -105,13 +105,13 @@ Used 10.10.10.0/30 base network for point-to-point links between routers and L3 
 
 ---
 
-## ?? GitHub Pages Link
+##  GitHub Pages Link
 
-[?? View Project GitHub Page](https://alaxneon.github.io/EnterpriseNetwork_CPT)
+[ View Project GitHub Page](https://alaxneon.github.io/EnterpriseNetwork_CPT)
 
 ---
 
-## ?? References
+##  References
 
 - [Cisco Packet Tracer Full Lab – VLAN, Inter-VLAN Routing, DHCP, SSH](https://www.youtube.com/watch?v=ebAqdDfIGhk)
 - [Advanced Networking in Packet Tracer – Full Enterprise Setup](https://www.youtube.com/watch?v=NU3jmb0eN_A)
