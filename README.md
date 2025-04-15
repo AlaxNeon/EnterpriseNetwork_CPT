@@ -107,9 +107,7 @@ Used 10.10.10.0/30 base network for point-to-point links between routers and L3 
 
 ##  References
 
-- [Case Study Explanation || Visualisation using MS Visual](https://www.youtube.com/watch?v=ebAqdDfIGhk)
-- [Enterprise Network Topology Setup](https://www.youtube.com/watch?v=NU3jmb0eN_A)
-- [Enterprise Network Final Configuration](https://www.youtube.com/watch?v=SEO0GGTtyIk)
+- [Case Study](https://gurutechnetworks.otombenard.com/assetsProject/project5#google_vignette)
 
 ---
 
